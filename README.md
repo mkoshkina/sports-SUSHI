@@ -6,6 +6,10 @@ features](https://arxiv.org/pdf/2502.21242) (Maria Koshkina, James H. Elder).
 
 ## YorkHockey Dataset:
 ![YorkHockey](docs/york_hockey_sample.png)
+* Dataset contains 20 clips (14 train, 6 test) from university hockey games capturing the whole playing surface. Tracks for each player are continuous (even through occlusions).
+* Average sequence length: 1,131 frames
+* Maximum sequence length: 1,530 frames
+
 * Request access by contacting [Maria Koshkina](mailto:koshkina@hotmail.com?subject=YorkHockey).
 * Annotation files format:
   * gt/gt.txt: standard MOT annotations
